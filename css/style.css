@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lobster&family=Pacifico&family=Shrikhand&display=swap");
+
+.navbrand {
+  font-family: "Dancing Script", cursive;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+.bantext {
+  font-family: "Lobster", sans-serif;
+}
+.ban1 {
+  padding-left: 70px;
+  padding-top: 40px;
+  border-color: 5px red;
+}
+.heading {
+  font-family: lobster;
+  font-weight: bold;
+  font-size: 40px;
+text-shadow: 2px 3px 20px yellowgreen;
+}
+
+.header{
+    font-family: lobster;
+  font-weight: bold;
+  font-size: 30px;
+text-shadow: 2px 3px 20px yellowgreen;
+}
